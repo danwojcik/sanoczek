@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">I am constantly improving in java</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Angular**
