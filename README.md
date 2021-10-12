@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanoczek&label=Profile%20views&color=0e75b6&style=flat" alt="sanoczek" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoczek" alt="sanoczek" /></a> </p>
+
+- 🌱 I’m currently learning **HTML, CSS, JS, Angular**
+
 - 👨‍💻 All of my projects are available at [https://github.com/sanoczek/porfolio](https://github.com/sanoczek/porfolio)
 
-- 💬 find me on **linkedin.com/in/daniel-wójcik-35129a218**
-
 - 📫 How to reach me **sanoczek@gmail.com**
+
+- ⚡ Hobby **game board, DIY, football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoczek&show_icons=true&locale=en" alt="sanoczek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanoczek&" alt="sanoczek" /></p>
+
