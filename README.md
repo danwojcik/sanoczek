@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanoczek@gmail.com**
 
-- ⚡ Hobby **game board, DIY, football**
+- ⚡ My hobby **game board, DIY, football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
