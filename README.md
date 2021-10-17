@@ -24,7 +24,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> </a> 
   <a href="https://hibernate.org" target="_blank"> <img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" width="80" height="80"/> </a>
-  <a href="https://www.scrum.org/" target="_blank"> <img src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png" width="80" height="80"/> </a> </p>
+  <a href="https://www.scrum.org/" target="_blank"> <img src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png" width="80" height="80"/> </a> 
+  <a href="https://www.atlassian.com/pl/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="80" height="80"/> </a>
+  <a href="https://miro.com/" target="_blank"> <img src="https://media.cdnandroid.com/item_images/1085144/imagen-miro-formerly-realtimeboard-online-whiteboard-0big.jpg" width="80" height="80"/> </a>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoczek&show_icons=true&locale=en&layout=compact" alt="sanoczek" /></p>
 
