@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanoczek/porfolio](https://github.com/sanoczek/porfolio)
+- 👨‍💻 All of my projects are available at [porfolio](https://github.com/sanoczek/porfolio)
 
 - 📫 How to reach me **sanoczek@gmail.com**
 
