@@ -36,5 +36,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanoczek&" alt="sanoczek" /></p>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-wójcik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/daniel-w%C3%B3jcik?trk=profile-badge">Daniel Wójcik</a></div>
-              
-
