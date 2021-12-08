@@ -29,8 +29,8 @@
   <a href="https://miro.com/" target="_blank"> <img src="https://media.cdnandroid.com/item_images/1085144/imagen-miro-formerly-realtimeboard-online-whiteboard-0big.jpg" width="80" height="80"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoczek&show_icons=true&locale=en&layout=compact" alt="sanoczek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danwojcik&show_icons=true&locale=en&layout=compact" alt="sanoczek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoczek&show_icons=true&locale=en" alt="sanoczek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danwojcik&show_icons=true&locale=en" alt="sanoczek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanoczek&" alt="sanoczek" /></p>              
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danwojcik&" alt="sanoczek" /></p>              
